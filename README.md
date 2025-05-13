@@ -11,7 +11,7 @@ This project explores the relationship between app categories, prices, and user 
 The notebook includes visualizations such as:
 - Average rating by app category
 - Scatter plots of app price vs. rating
-- Distribution of free vs. paid app ratings
+
   
 
 > 👉 You can view the full notebook with graphs [here](./app-store-rating-analysis.ipynb)
