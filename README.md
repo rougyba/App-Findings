@@ -1,4 +1,3 @@
-# App-Findings
 # App Ratings Analysis
 
 This project explores the relationship between app categories, prices, and user ratings using a dataset of mobile applications. It was conducted using a Jupyter Notebook and includes data cleaning, visualization, and insights.
